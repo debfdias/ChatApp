@@ -10,7 +10,7 @@ A real time chat app developed with Expo and Firebase as data storage.
 ## How to run
 
 ```bash
-$ git clone https://github.com/andreocunha/Chat_Real_Time_React_Native.git
+$ git clone https://github.com/debfdias/ChatApp.git
 
 $ cd ChatApp
 
